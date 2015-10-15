@@ -11,4 +11,4 @@ Cloud02 page address: https://rawgit.com/YebaiZhao/HCIN720-IA3/master/cloud_03/c
 ![](pic0.jpg)
 ![](pic1.jpg)
 ![](pic2.png)
-3D models evolution, left to right = old to new.
+3D models evolution example. Left to right: old to new.
