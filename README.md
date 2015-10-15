@@ -7,4 +7,7 @@ is specailly designed, after 7 prototypes. A speaker and necessary code is added
 
 Cloud02 page address: https://rawgit.com/YebaiZhao/HCIN720-IA3/master/cloud_02/cloud_02.html
 
-![](pic.jpg)
+![](pic0.jpg)
+![](pic1.jpg)
+![](pic2.png)
+3D models evolution, left to right = old to new.
